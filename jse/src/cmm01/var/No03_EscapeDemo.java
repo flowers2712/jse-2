@@ -8,11 +8,11 @@ public class No03_EscapeDemo {
 		
 		sum = kor + eng;
 		
-		System.out.print("\t����ó��\n");			//print���� ln�� ����� enter���� ������. ��� \n�� �־��ָ� �Ȱ������.
-												//\n = ln
+		System.out.print("\t성적결과\n");			//print���� ln�� ����� enter���� ������. ��� \n�� �־��ָ� �Ȱ������.
+		
 		System.out.println("====================");
-		System.out.println("����\t����\t����"); //���� ""�ȿ� �ִ°��̸� \t�� ���� ��밡��
-		System.out.println(kor+"\t"+  eng+"\t"+  sum);
+		System.out.println("국어\t영어\t합계"); 
+		System.out.println(kor+"\t"+  eng+"\t"+  sum); // '\t' 는 탭만큼의 간격을 뛰움
 		
 	}
 }
