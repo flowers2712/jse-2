@@ -1,6 +1,6 @@
 package cmm01.var;
 
-public class EscapeDemo {
+public class No03_EscapeDemo {
 	public static void main(String[] args) {
 		int kor = 90;
 		int eng = 85;

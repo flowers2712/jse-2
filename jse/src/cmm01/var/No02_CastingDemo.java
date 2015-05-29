@@ -4,7 +4,7 @@ Date : 2015.05.11
 Author : 박정관
 Description : 캐스팅 문법에 대한 학습자료
  * */
-class CastingDemo{
+class No02_CastingDemo{
 	public static void main(String[] args) {
 /*
 Up-Casting
